@@ -128,3 +128,5 @@ yarn-error.log*
 
 # React history
 .history
+
+package-lock.json
